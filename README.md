@@ -4,7 +4,7 @@ Hackathon Project: Scan Barcodes and QR codes! It will even tell you the type of
 Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/) ([Devpost](https://quhacks2020.devpost.com/))  
 See full project [here](https://devpost.com/software/barcode-qr-code-scanner)  
 [Video Demo](https://youtu.be/fGIddomfrzs)  
-[Expo Snack](Updated 2022)](https://snack.expo.dev/@liuvictor/6c22f0)
+[Expo Snack(Updated 2022)](https://snack.expo.dev/@liuvictor/6c22f0)  
 
 ## Inspiration
 We wanted to try something new using the camera of a phone
