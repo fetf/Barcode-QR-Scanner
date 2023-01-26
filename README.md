@@ -1,6 +1,7 @@
 # Barcode/QR Scanner App
 Hackathon Project: Scan Barcodes and QR codes! It will even tell you the type of barcode you scanned, and keep a history of previous scans. 
 
+Written by Richard Sbaschnig, Victor Liu, Julian Chavez
 Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/) ([Devpost](https://quhacks2020.devpost.com/))  
 See full project [here](https://devpost.com/software/barcode-qr-code-scanner)  
 [Video Demo](https://youtu.be/fGIddomfrzs)  
